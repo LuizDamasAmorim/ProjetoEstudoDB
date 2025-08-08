@@ -29,7 +29,7 @@ Projeto de banco de dados com Mongodb e node.js com a finalidade de adicionar, a
     npm install
     ```
 
-4. Configure a URI do MongoDB no arquivo `database.js`:
+4. Configure a URI do MongoDB:
     ```js
     const url = 'mongodb+srv://usuario:senha@cluster.mongodb.net/nomeDoBanco'
     ```
